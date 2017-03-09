@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is code for [kaggle's Home Depot Product Search Relevance][1]. The final result ranked ~9%.
+Helping Home Depot improve the customers' shopping experience by developing a model that can accurately predict the relevance of search results. This is code for [kaggle's Home Depot Product Search Relevance][1]. The final result ranked ~9%.
 
 ## Dependencies
 * Python 2.7.6
